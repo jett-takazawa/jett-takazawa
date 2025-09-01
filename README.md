@@ -1,8 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+🔭 I’m currently working on a multi-agent AI trading system (Signal→Risk→Exec) and an FDIC market-intel bot using Python, Parquet/DuckDB, Vertex AI, and n8n.
+
+🌱 I’m currently learning PyTorch and machine learning end-to-end (time-series modeling, SFT/RL, and production-grade data engineering).
+
+👯 I’m looking to collaborate on open-source agentic AI frameworks, quant research tooling, and small-biz automation.
+
+🤔 I’m looking for help with low-latency data pipelines, PyTorch performance tuning, rigorous backtesting/validation, and CI/CD (Docker + GitHub Actions).
 <!--
 **jett-takazawa/jett-takazawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
