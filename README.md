@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a Boston College Junior Studying Business Analytics and Information Systems
+
 🔭 I’m currently working on a multi-agent AI trading system (Signal→Risk→Exec) and an FDIC market-intel bot using Python, Parquet/DuckDB, Vertex AI, and n8n.
 
 🌱 I’m currently learning PyTorch and machine learning end-to-end (time-series modeling, SFT/RL, and production-grade data engineering).
