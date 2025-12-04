@@ -3,13 +3,17 @@ I am a Boston College Junior Studying Business Analytics and Information Systems
 
 I love expressing data driven analysis by expressing creative ideas and AI integration!
 
+
+
 🔭 I’m currently working on building automated trading systems with implicit GEN AI.
 
-🌱 I’m currently learning PyTorch and machine learning end-to-end (time-series modeling, SFT/RL, and production-grade data engineering).
+🌱 I’m currently learning PyTorch (time-series modeling, SFT/RL, and production-grade data engineering).
 
 👯 I’m looking to collaborate on quant research, business automation, RAG LLM integration.
 
-🤔 I’m looking for help with low-latency data pipelines, PyTorch performance tuning, rigorous backtesting/validation, and CI/CD (Docker + GitHub Actions).
+🤔 I’m looking for help with low-latency data pipelines, PyTorch performance tuning, and Docker + GitHub Actions.
+
+
 
 
 
